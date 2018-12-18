@@ -21,7 +21,7 @@
 * cd JobCrawl
 * pip3.6 install -r requirements.txt
 
-##运行指南
+## 运行指南
 
 * scrapy crawl job51 -a keywords=java
 * scrapy crawl zhaopin -a keywords=java
