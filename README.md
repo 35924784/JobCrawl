@@ -17,7 +17,7 @@
 * 从三大知名网站上爬取就业信息，爬取**发布工作的日期**，**薪资**，**城市**，**岗位有那些福利**，**要求**，**分类**等等，并将爬到的数据存到**mysql数据库中**
 
 ##  运行项目
-* git clone https://github.com/wqh0109663/JobCrawl.git
+* git clone https://github.com/35924784/JobCrawl.git
 * cd JobCrawl
 * pip3.6 install -r requirements.txt
 
